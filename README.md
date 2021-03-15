@@ -5,9 +5,9 @@
 
 - 🔭 I'm currently working on [jamesrweb/codewars-kata-exporter](https://github.com/jamesrweb/codewars-kata-exporter)
 
-- 👯 I'm looking to collaborate on [accessibility-tools/CI](https://github.com/accessibility-tools/CI)
+- 👯 I'm looking to collaborate on [and-who/react-p5-wrapper](https://github.com/and-who/react-p5-wrapper)
 
-- 🤝 I'm looking for help with [jamesrweb/StockTracker](https://github.com/jamesrweb/StockTracker)
+- 🤝 I'm looking for help with [accessibility-tools/CI](https://github.com/accessibility-tools/CI)
 
 - 📝 I regularly write articles on [DEV](https://dev.to/jamesrweb)
 
