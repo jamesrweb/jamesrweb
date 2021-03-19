@@ -3,7 +3,7 @@
 
 - 🌱 I'm currently learning **Rust, .NET Core, GraphQL**
 
-- 🔭 I'm currently working on [jamesrweb/codewars-kata-exporter](https://github.com/jamesrweb/codewars-kata-exporter)
+- 🔭 I'm currently working on [jamesrweb/codewars-api-client](https://github.com/jamesrweb/codewars-api-client)
 
 - 👯 I'm looking to collaborate on [and-who/react-p5-wrapper](https://github.com/and-who/react-p5-wrapper)
 
