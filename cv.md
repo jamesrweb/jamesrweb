@@ -2,8 +2,6 @@
 
 ## Employment
 
-### Professional
-
 | Title                     | Company                    | Employment Type | Location               | Start Date     | End Date       |
 | ------------------------- | -------------------------- | --------------- | ---------------------- | -------------- | -------------- |
 | Senior Software Engineer  | Foobar Agency GmbH         | Full Time       | Munich, Germany        | January 2021   | Present        |
@@ -50,7 +48,7 @@
 
 [4]: https://www.linkedin.com/in/simon-blatchford/
 
-### Volunteering
+## Volunteering
 
 | Title                     | Organisation                | Cause                          | Start Date   | End Date       |
 | ------------------------- | --------------------------- | ------------------------------ | ------------ | -------------- |
@@ -60,7 +58,7 @@
 | Technical Writer          | Dev Community               | Science and Technology         | January 2017 | Present        |
 | Mentor                    | Futurice GmbH               | Education                      | March 2020   | September 2020 |
 
-### Open Source
+## Open Source
 
 | Project             | Description                                                                               | Authored | Initial Contribution | Link                                                                               |
 | ------------------- | ----------------------------------------------------------------------------------------- | -------- | -------------------- | ---------------------------------------------------------------------------------- |
@@ -76,9 +74,7 @@
 | ------------------- | -------------------------------------------------------- | ---------- | -------- |
 | Professional Member | International Association of Accessibility Professionals | March 2019 | Present  |
 
-## Education
-
-### Qualifications
+## Qualifications
 
 | Qualification Name                     | Qualification Level  | Institution                             | Location               | Start Year | End Year |
 | -------------------------------------- | -------------------- | --------------------------------------- | ---------------------- | ---------- | -------- |
@@ -86,7 +82,7 @@
 | Web Design and Web Authoring           | Other                | City of Glasgow College                 | Glasgow, Scotland      | 2013       | 2014     |
 | Business Management and Administration | SVQ Level 2 (SCQF 5) | University of the Highlands and Islands | Fort William, Scotland | 2010       | 2011     |
 
-### Certifications
+## Certifications
 
 | Cetification Name                         | Provider                    | Issue Date     | Expiry Date  | Link to Certification                                                                                                                                   |
 | ----------------------------------------- | --------------------------- | -------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
