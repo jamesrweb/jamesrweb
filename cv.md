@@ -119,7 +119,7 @@
 | French   | CEFR A2 | No             |
 | Korean   | CEFR A1 | No             |
 | Spanish  | CEFR A1 | No             |
-| Swedish  | CEFR B2 | No             |
+| Swedish  | CEFR A1 | No             |
 
 ## Interests
 
