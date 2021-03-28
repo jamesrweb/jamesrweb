@@ -11,4 +11,4 @@
 
 - 📝 I regularly write articles on [DEV](https://dev.to/jamesrweb)
 
-- 📄 Learn about my work experience on [LinkedIn](https://www.linkedin.com/in/jamesrobbweb/)
+- 📄 Learn more about me by reading my [CV](https://github.com/jamesrweb/jamesrweb/blob/master/cv.md) or checking my profile on [LinkedIn](https://www.linkedin.com/in/jamesrobbweb/)
