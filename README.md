@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm James Robb</h1>
 <p align="center"><strong>A Full Stack Developer & Accessibility Advocate</strong></p>
 
-- 🌱 I'm currently learning **Rust, .NET Core, GraphQL**
+- 🌱 I'm currently learning **Elm, Rust, .NET Core, GraphQL**
 
-- 🔭 I'm currently working on [jamesrweb/codewars-api-client](https://github.com/jamesrweb/codewars-api-client)
+- 🔭 I'm currently working on [BrianHicks/elm-css-reset](https://github.com/BrianHicks/elm-css-reset)
 
-- 👯 I'm looking to collaborate on [and-who/react-p5-wrapper](https://github.com/and-who/react-p5-wrapper)
+- 👯 I'm looking to collaborate on [jamesrweb/forem-supabase-sync-cli](https://github.com/jamesrweb/forem-supabase-sync-cli)
 
-- 🤝 I'm looking for help with [accessibility-tools/CI](https://github.com/accessibility-tools/CI)
+- 🤝 I'm looking for help with [and-who/react-p5-wrapper](https://github.com/and-who/react-p5-wrapper)
 
 - 📝 I regularly write articles on [DEV](https://dev.to/jamesrweb)
 
