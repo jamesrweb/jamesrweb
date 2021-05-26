@@ -3,7 +3,7 @@
 
 - 🌱 I'm currently learning **Elm, Rust, .NET Core, GraphQL**
 
-- 🔭 I'm currently working on [BrianHicks/elm-css-reset](https://github.com/BrianHicks/elm-css-reset)
+- 🔭 I'm currently working on [tesk9/accessible-html](https://github.com/tesk9/accessible-html)
 
 - 👯 I'm looking to collaborate on [jamesrweb/forem-supabase-sync-cli](https://github.com/jamesrweb/forem-supabase-sync-cli)
 
