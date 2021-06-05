@@ -5,9 +5,9 @@
 
 - 🔭 I'm currently working on [tesk9/accessible-html](https://github.com/tesk9/accessible-html)
 
-- 👯 I'm looking to collaborate on [jamesrweb/forem-supabase-sync-cli](https://github.com/jamesrweb/forem-supabase-sync-cli)
+- 👯 I'm looking to collaborate on [jamesrweb/react-p5-wrapper](https://github.com/jamesrweb/react-p5-wrapper)
 
-- 🤝 I'm looking for help with [and-who/react-p5-wrapper](https://github.com/and-who/react-p5-wrapper)
+- 🤝 I'm looking for help with [jamesrweb/forem-supabase-sync-cli](https://github.com/jamesrweb/forem-supabase-sync-cli)
 
 - 📝 I regularly write articles on [DEV](https://dev.to/jamesrweb)
 
