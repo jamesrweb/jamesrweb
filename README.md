@@ -3,7 +3,7 @@
 
 - 🌱 I'm currently learning **Elm, Rust, .NET Core, GraphQL**
 
-- 🔭 I'm currently working on [tesk9/accessible-html](https://github.com/tesk9/accessible-html)
+- 🔭 I'm currently working on [jamesrweb/elm-lisp-interpreter](https://github.com/jamesrweb/elm-lisp-interpreter)
 
 - 👯 I'm looking to collaborate on [jamesrweb/react-p5-wrapper](https://github.com/jamesrweb/react-p5-wrapper)
 
