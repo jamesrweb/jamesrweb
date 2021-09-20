@@ -5,6 +5,7 @@
 | Title                     | Company                    | Employment Type | Location               | Start Date     | End Date       |
 | ------------------------- | -------------------------- | --------------- | ---------------------- | -------------- | -------------- |
 | Senior Software Engineer  | Foobar Agency GmbH         | Full Time       | Munich, Germany        | January 2021   | Present        |
+| Lead Solutions Architect  | Foobar Agency GmbH         | Full Time       | Munich, Germany        | March 2021     | April 2021     |
 | Owner & Web Developer     | James Robb Web Development | Self Employed   | Remote                 | November 2013  | February 2021  |
 | Head of Technology        | MyBacs GmbH                | Full Time       | Munich, Germany        | September 2020 | October 2020   |
 | Global Accessibility Lead | Futurice GmbH              | Full Time       | Munich, Germany        | February 2019  | September 2020 |
@@ -52,21 +53,11 @@
 
 | Title                     | Organisation                | Cause                          | Start Date   | End Date       |
 | ------------------------- | --------------------------- | ------------------------------ | ------------ | -------------- |
-| Private Tutor             | N / A                       | Education                      | March 2019   | Present        |
-| Co-Founder & Co-Organiser | Munich Accessibility Meetup | Civil Rights and Social Action | May 2018     | Present        |
 | Open Source Contributor   | GitHub                      | Science and Technology         | January 2015 | Present        |
 | Technical Writer          | Dev Community               | Science and Technology         | January 2017 | Present        |
+| Private Tutor             | N / A                       | Education                      | March 2019   | September 2021 |
+| Co-Founder & Co-Organiser | Munich Accessibility Meetup | Civil Rights and Social Action | May 2018     | July 2021      |
 | Mentor                    | Futurice GmbH               | Education                      | March 2020   | September 2020 |
-
-## Open Source
-
-| Project             | Description                                                                               | Authored | Initial Contribution | Link                                                                               |
-| ------------------- | ----------------------------------------------------------------------------------------- | -------- | -------------------- | ---------------------------------------------------------------------------------- |
-| Codewars API Client | A client for the Codewars API                                                             | Yes      | January 2021         | [Codewars API Client Repository](https://github.com/jamesrweb/codewars-api-client) |
-| React P5 Wrapper    | A library to run P5 sketches in a React app                                               | No       | May 2020             | [React P5 Wrapper Repository](https://github.com/jamesrweb/react-p5-wrapper)         |
-| Accessibility CI    | A CLI tool for your automated testing pipelines to test for findable accessibility issues | No       | March 2020           | [Accessibility CI Repository](https://github.com/accessibility-tools/CI)           |
-| Symbols             | A script to generate a single symbol definitions file from a directory of svgs            | Yes      | March 2020           | [Symbols Repository](https://github.com/jamesrweb/symbols)                         |
-| Elementary          | A collection of common data structures and algorithms for everyday programming            | Yes      | June 2020            | [Elementary Repository](https://github.com/jamesrweb/elementary)                   |
 
 ## Organisation Memberships
 
