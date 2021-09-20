@@ -2,24 +2,24 @@
 
 ## Employment
 
-| Title                     | Company                    | Employment Type | Location               | Start Date     | End Date       |
-| ------------------------- | -------------------------- | --------------- | ---------------------- | -------------- | -------------- |
-| Senior Software Engineer  | Foobar Agency GmbH         | Full Time       | Munich, Germany        | January 2021   | Present        |
-| Lead Solutions Architect  | Foobar Agency GmbH         | Full Time       | Munich, Germany        | March 2021     | April 2021     |
-| Owner & Web Developer     | James Robb Web Development | Self Employed   | Remote                 | November 2013  | February 2021  |
-| Head of Technology        | MyBacs GmbH                | Full Time       | Munich, Germany        | September 2020 | October 2020   |
-| Global Accessibility Lead | Futurice GmbH              | Full Time       | Munich, Germany        | February 2019  | September 2020 |
-| Senior Software Engineer  | Futurice GmbH              | Full Time       | Munich, Germany        | September 2018 | September 2020 |
-| Technical Co-Founder      | Stealth Startup            | Full Time       | Munich, Germany        | February 2020  | August 2020    |
-| Software Engineer         | Talentry GmbH              | Full Time       | Munich, Germany        | May 2018       | September 2018 |
-| Frontend Developer        | Vitafy GmbH                | Full Time       | Munich, Germany        | October 2016   | May 2018       |
-| Technical Support Analyst | E-Max Systems              | Full Time       | Glasgow, Scotland      | April 2013     | August 2013    |
-| Owner & Web Administrator | Line Leopard               | Self Employed   | Glasgow, Scotland      | June 2012      | February 2013  |
-| Administrative Assistant  | Glasgow City Council       | Internship      | Glasgow, Scotland      | January 2012   | March 2012     |
-| General Assistant         | Whitbread                  | Full Time       | Fort William, Scotland | October 2011   | December 2011  |
-| Entertainment Manager     | Lochs & Glens Holidays     | Full Time       | Fort William, Scotland | June 2011      | September 2011 |
-| Waiter                    | Lochs & Glens Holidays     | Full Time       | Fort William, Scotland | February 2011  | September 2011 |
-| General Assistant         | Morrisons                  | Part Time       | Fort William, Scotland | January 2010   | April 2010     |
+| Title                     | Company                          | Employment Type | Location               | Start Date     | End Date       |
+| ------------------------- | -------------------------------- | --------------- | ---------------------- | -------------- | -------------- |
+| Senior Software Engineer  | Foobar Agency GmbH (Porta Möbel) | Full Time       | Munich, Germany        | January 2021   | Present        |
+| Lead Solutions Architect  | Foobar Agency GmbH (SEGMÜLLER)   | Full Time       | Munich, Germany        | March 2021     | April 2021     |
+| Owner & Web Developer     | James Robb Web Development       | Self Employed   | Remote                 | November 2013  | February 2021  |
+| Head of Technology        | MyBacs GmbH                      | Full Time       | Munich, Germany        | September 2020 | October 2020   |
+| Global Accessibility Lead | Futurice GmbH                    | Full Time       | Munich, Germany        | February 2019  | September 2020 |
+| Senior Software Engineer  | Futurice GmbH                    | Full Time       | Munich, Germany        | September 2018 | September 2020 |
+| Technical Co-Founder      | Stealth Startup                  | Full Time       | Munich, Germany        | February 2020  | August 2020    |
+| Software Engineer         | Talentry GmbH                    | Full Time       | Munich, Germany        | May 2018       | September 2018 |
+| Frontend Developer        | Vitafy GmbH                      | Full Time       | Munich, Germany        | October 2016   | May 2018       |
+| Technical Support Analyst | E-Max Systems                    | Full Time       | Glasgow, Scotland      | April 2013     | August 2013    |
+| Owner & Web Administrator | Line Leopard                     | Self Employed   | Glasgow, Scotland      | June 2012      | February 2013  |
+| Administrative Assistant  | Glasgow City Council             | Internship      | Glasgow, Scotland      | January 2012   | March 2012     |
+| General Assistant         | Whitbread                        | Full Time       | Fort William, Scotland | October 2011   | December 2011  |
+| Entertainment Manager     | Lochs & Glens Holidays           | Full Time       | Fort William, Scotland | June 2011      | September 2011 |
+| Waiter                    | Lochs & Glens Holidays           | Full Time       | Fort William, Scotland | February 2011  | September 2011 |
+| General Assistant         | Morrisons                        | Part Time       | Fort William, Scotland | January 2010   | April 2010     |
 
 <details>
   <summary>Testimonials</summary>
