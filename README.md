@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on [jamesrweb/elm-lisp-interpreter](https://github.com/jamesrweb/elm-lisp-interpreter)
 
-- 👯 I'm looking to collaborate on [P5-wrapper/react](https://github.com/jamesrweb/p5-wrapper/react)
+- 👯 I'm looking to collaborate on [P5-wrapper/react](https://github.com/p5-wrapper/react)
 
 - 📝 I regularly write articles on [DEV](https://dev.to/jamesrweb)
 
