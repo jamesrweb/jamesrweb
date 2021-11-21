@@ -22,7 +22,25 @@
 | Waiter                       | Lochs & Glens Holidays           | Full Time       | Fort William, Scotland | February 2011  | September 2011 |
 | General Assistant            | Morrisons                        | Part Time       | Fort William, Scotland | January 2010   | April 2010     |
 
-Testimonials
+<details>
+  <summary>Testimonials</summary>
+
+  > I worked closely with James during his time in Futurice as a mentor and colleague. There are three things that stand out for me when talking about James. First and foremost is his passion for Accessibility. He brought this with him from his first day at Futurice, and put this passion and enthusiasm into every project he worked on. Second is his attention to detail, and striving for the highest quality. ‘Good enough’ is never something that I would hear from James, and this had a real impact on his team members and projects. Finally, and maybe the most important, is that James continued through the whole time at Futurice to learn and better himself, in his ways of working, in his communication, and in his technical skills.
+  >
+  > -- [Kalki Rose][1]
+  
+  > I had the pleasure of working with James at Futurice, collaborating on several projects regarding accessibility. James is one of the main drivers behind the companies global team for accessibility and actively grew and shared accessibility across different sites. He built a team around this topic by sharing his passion with others. He did an amazing job not just improving accessibility in several of our client projects, but also creating awareness and interest around the topic and making it a part of our mindset. At the same time he is always trying to learn more and improve his skills by exposing himself to new topics and share his learnings with other people. James is very supportive of his peers. I have seen him mentor and support other colluages in a proactive manner and have learned a lot from him myself. While his main competence are his skills as a software developer, he has a great understanding when it comes to user experience. He approaches every project with a user-centred mindset - as a UX designer I enjoyed collaborating with James a lot for that reason. I hope I will work with James again in the future!
+  >
+  > -- [Katja Niggl][2]
+  
+  > James is one of the main architect behind the accessibility competence at Futurice, and I must say that I am really impressed by his contributions regarding this topic. I joined the company because I knew there was a whole team in the organisation dealing with accessibility. I was excited to join a team to take further care of a topic that is neglected in so many companies. Very quickly, James welcomed me in the crew. He supports my ideas and provides guidance, always in a benevolent way. He became my mentor for accessibility and programming, always eager to help. I also like James as a person. He is genuinely committed to his job and his very knowledgeable about it. James is not afraid about telling his opinion and fighting for it, which I very much admire. It saddens me a lot to see James leaving. But I have no doubt he will carry on doing his amazing job, bringing even more accessibility to the digital world, and actively continuing to inspire his peers.
+  >
+  > -- [Marion Couesnon][3]
+  
+  > James is a fantastic people person, he has a lot of time for you whenever you need help with building a website or in general learning anything related to Javascript. He has a passion for code, learning new things and the most important, mentoring people too. I would love to work with him in the future again anytime.
+  >
+  > -- [Simon Blatchford][4]
+</details>
 
 
 [1]: https://www.linkedin.com/in/kalkirose/
