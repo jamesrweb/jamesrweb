@@ -9,4 +9,4 @@
 
 - 📝 I regularly write articles on [DEV](https://dev.to/jamesrweb)
 
-- 📄 Learn more about me by reading my [CV](https://github.com/jamesrweb/jamesrweb/blob/master/cv.md) or checking my profile on [LinkedIn](https://www.linkedin.com/in/jamesrobbweb/)
+- 📄 Learn more about me by reading my [CV](https://github.com/jamesrweb/jamesrweb/blob/master/CV.md) or checking my profile on [LinkedIn](https://www.linkedin.com/in/jamesrobbweb/)
