@@ -5,7 +5,7 @@
 | Title                        | Company                          | Employment Type | Location               | Start Date     | End Date       |
 | ---------------------------- | -------------------------------- | --------------- | ---------------------- | -------------- | -------------- |
 | Technical Engagement Manager | Foobar Agency GmbH (Cyberport)   | Full Time       | Munich, Germany        | November 2021  | Present        |
-| Senior Software Engineer     | Foobar Agency GmbH (Porta Möbel) | Full Time       | Munich, Germany        | January 2021   | Present        |
+| Senior Software Engineer     | Foobar Agency GmbH (Porta Möbel) | Full Time       | Munich, Germany        | January 2021   | February 2022  |
 | Lead Solutions Architect     | Foobar Agency GmbH (Segmüller)   | Full Time       | Munich, Germany        | March 2021     | April 2021     |
 | Owner & Web Developer        | James Robb Web Development       | Self Employed   | Remote                 | November 2013  | February 2021  |
 | Head of Technology           | MyBacs GmbH                      | Full Time       | Munich, Germany        | September 2020 | October 2020   |
