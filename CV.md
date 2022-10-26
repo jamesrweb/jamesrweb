@@ -4,6 +4,7 @@
 
 | Title                        | Company                          | Employment Type | Location               | Start Date     | End Date       |
 | ---------------------------- | -------------------------------- | --------------- | ---------------------- | -------------- | -------------- |
+| Senior Software Engineer     | Foobar Agency GmbH (STIHL)       | Full Time       | Munich, Germany        | August 2022    | Present        |
 | Technical Engagement Manager | Foobar Agency GmbH (Cyberport)   | Full Time       | Munich, Germany        | November 2021  | Present        |
 | Senior Software Engineer     | Foobar Agency GmbH (Porta Möbel) | Full Time       | Munich, Germany        | January 2021   | February 2022  |
 | Lead Solutions Architect     | Foobar Agency GmbH (Segmüller)   | Full Time       | Munich, Germany        | March 2021     | April 2021     |
