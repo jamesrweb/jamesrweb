@@ -70,11 +70,12 @@
 
 ## Qualifications
 
-| Qualification Name                     | Qualification Level  | Institution                             | Location               | Start Year | End Year |
-| -------------------------------------- | -------------------- | --------------------------------------- | ---------------------- | ---------- | -------- |
-| Interactive Media: Web Development     | HNC (SCQF 7)         | City of Glasgow College                 | Glasgow, Scotland      | 2014       | 2015     |
-| Web Design and Web Authoring           | Other                | City of Glasgow College                 | Glasgow, Scotland      | 2013       | 2014     |
-| Business Management and Administration | SVQ Level 2 (SCQF 5) | University of the Highlands and Islands | Fort William, Scotland | 2010       | 2011     |
+| Qualification Name                          | Qualification Level  | Institution                             | Location               | Start Year | End Year |
+| ------------------------------------------- | -------------------- | --------------------------------------- | ---------------------- | ---------- | -------- |
+| Science, Technology and Maths Access Module | N / A                | The Open University                     | Remote                 | 2021       | 2021     |
+| Interactive Media: Web Development          | HNC (SCQF 7)         | City of Glasgow College                 | Glasgow, Scotland      | 2014       | 2015     |
+| Web Design and Web Authoring                | Other                | City of Glasgow College                 | Glasgow, Scotland      | 2013       | 2014     |
+| Business Management and Administration      | SVQ Level 2 (SCQF 5) | University of the Highlands and Islands | Fort William, Scotland | 2010       | 2011     |
 
 ## Certifications
 
