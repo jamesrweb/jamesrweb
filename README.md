@@ -3,9 +3,9 @@
 
 - 🌱 I'm currently learning **Rust, Haskell, .NET Core, GraphQL**
 
-- 🔭 I'm currently working on [tesk9/accessible-html](https://github.com/tesk9/accessible-html)
+- 🔭 I'm currently working on [P5-wrapper/react](https://github.com/p5-wrapper/react)
 
-- 👯 I'm looking to collaborate on [P5-wrapper/react](https://github.com/p5-wrapper/react)
+- 👯 I'm looking to collaborate on [P5-wrapper](https://github.com/p5-wrapper)
 
 - ⏳ I'm going to eventually get around to continuing work on [jamesrweb/elm-lisp-interpreter](https://github.com/jamesrweb/elm-lisp-interpreter)
 
