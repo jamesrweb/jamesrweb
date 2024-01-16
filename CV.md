@@ -7,8 +7,8 @@
 | Founding Director                             | WorkOps                                         | Self Employed   | London, United Kingdom | March 2023     | Present        |
 | Founding Director                             | Avidi Exploratores (Æ)                          | Self Employed   | London, United Kingdom | February 2021  | Present        |
 | Author (Rust for Web Application Development) | Manning Publications Co.                        | Full Time       | Munich, Germany        | June 2023      | September 2023 |
-| Engineering Manager (Live Agent Team)         | Cognigy Gmbh                                    | Full Time       | Munich, Germany        | May 2023       | August 2023    |
-| Engineering Manager (Insights Team)           | Cognigy Gmbh                                    | Full Time       | Munich, Germany        | May 2023       | August 2023    |
+| Engineering Manager (Live Agent Team)         | Cognigy Gmbh                                    | Full Time       | Munich, Germany        | July 2023      | August 2023    |
+| Engineering Manager (Insights Team)           | Cognigy Gmbh                                    | Full Time       | Munich, Germany        | June 2023      | August 2023    |
 | Senior Software Engineer                      | IU International University of Applied Sciences | Full Time       | Munich, Germany        | January 2023   | May 2023       |
 | Senior Software Engineer                      | Foobar Agency GmbH (STIHL)                      | Full Time       | Munich, Germany        | August 2022    | January 2023   |
 | Technical Engagement Manager                  | Foobar Agency GmbH (Cyberport)                  | Full Time       | Munich, Germany        | November 2021  | January 2023   |
@@ -55,7 +55,7 @@
 > I have work with James in the same company for more than a year and before that together with him on project while I was freelancing. The amount of knowledge that I got from James for all of my questions was remarkable. He is a skilled problem solver, an amazing teacher and a great guy to work with.
 >
 > -- [Alexandru Condrea][6]
- 
+
 </details>
 
 [1]: https://www.linkedin.com/in/kalkirose/
