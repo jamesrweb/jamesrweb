@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James Robb</h1>
 <p align="center"><strong>A Full Stack Developer & Accessibility Advocate</strong></p>
 
-- 🌱 I'm currently learning **Rust, Haskell & F#**
+- 🌱 I'm currently learning **Rust, Haskell, F# & Gleam**
 
 - 🔭 I'm currently working on [P5-wrapper/react](https://github.com/p5-wrapper/react)
 
