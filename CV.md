@@ -4,8 +4,8 @@
 
 | Title                                         | Company                                         | Employment Type | Location               | Start Date     | End Date       |
 | --------------------------------------------- | ----------------------------------------------- | --------------- | ---------------------- | -------------- | -------------- |
+| Requirements Engineer                         | Deutsche Fintech Solutions GmbH                 | Full Time       | Munich, Germany        | April 2024  | Present        |
 | Engineering Manager                           | Deutsche Fintech Solutions GmbH                 | Full Time       | Munich, Germany        | November 2023  | Present        |
-| Founding Director                             | Avidi Exploratores (Æ)                          | Self Employed   | London, United Kingdom | February 2021  | Present        |
 | Founding Director                             | WorkOps                                         | Self Employed   | London, United Kingdom | March 2023     | March 2024     |
 | Author (Rust for Web Application Development) | Manning Publications Co.                        | Full Time       | Munich, Germany        | June 2023      | September 2023 |
 | Engineering Manager (Live Agent Team)         | Cognigy Gmbh                                    | Full Time       | Munich, Germany        | July 2023      | August 2023    |
