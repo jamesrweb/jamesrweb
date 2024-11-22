@@ -81,7 +81,7 @@
 
 | Title               | Organisation                                             | Start Date | End Date   |
 | ------------------- | -------------------------------------------------------- | ---------- | ---------- |
-| Freiwilliger        | Tierschutzverein Freising e.V.                           | April 2021 | Present    |
+| Freiwilliger        | Tierschutzverein Freising e.V.                           | April 2021 | June 2024  |
 | Professional Member | International Association of Accessibility Professionals | March 2019 | March 2022 |
 
 ## Qualifications
