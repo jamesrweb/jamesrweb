@@ -8,4 +8,4 @@
 - 👯 I'm looking to collaborate on [P5-wrapper/angular](https://github.com/p5-wrapper/angular)
 - ⏳ I'm going to eventually get around to continuing work on [jamesrweb/elm-lisp-interpreter](https://github.com/jamesrweb/elm-lisp-interpreter)
 - 📝 I sometimes write articles on [DEV](https://dev.to/jamesrweb), these are also listed on [my blog](https://jamesrobb.blog)
-- 📄 Learn more about me by reading my [CV](https://github.com/jamesrweb/jamesrweb/blob/master/CV.md) or checking my profile on [LinkedIn](https://www.linkedin.com/in/jamesrobbweb/)
+- 📄 Learn more about me by reading my [CV](https://github.com/jamesrweb/jamesrweb/blob/main/CV.md) or checking my profile on [LinkedIn](https://www.linkedin.com/in/jamesrobbweb/)
