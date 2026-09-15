@@ -4,3 +4,19 @@ node_modules/
 
 # Files
 .DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# OS files
+Thumbs.db
+
+# npm/yarn lockfiles (pnpm-managed repositories)
+package-lock.json
+yarn.lock
+
+# PR description draft (gitignored)
+PR_DESCRIPTION.md
