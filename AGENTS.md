@@ -45,6 +45,19 @@ not `behavior`, `licence` not `license`, `centre` not `center`).
   bullet must survive unless the user explicitly approved its removal or
   merge, and the post-edit count must match the expected total exactly
 
+### Formatting
+
+- **Prettier** formats the repository's Markdown files (`README.md`, `CV.md`,
+  `AGENTS.md`) with `--prose-wrap always`, producing an 80-column prose wrap
+  and realigned tables covering the whole repository rather than individual
+  files, for example `prettier --write --prose-wrap always .`
+- `CLAUDE.md` is a symlink to `AGENTS.md` and needs no separate handling
+- `LICENSE` has no Prettier parser and is left untouched
+- Format-only changes are committed as `style:` commits (for example
+  `style: Format the repository files with Prettier`), with the diff verified
+  content-neutral via `git diff -w --stat` being empty before commit, so
+  nothing drifts under prose wrapping
+
 ### Git Guardrails
 
 **Permission rule:** never run any git command that alters history, state, or
