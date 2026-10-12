@@ -42,21 +42,25 @@ not `behavior`, `licence` not `license`, `centre` not `center`).
   comes from the user
 - **Bullet completeness:** when editing any bullet list in `README.md` or
   `CV.md`, count the entries before and after the edit. Every pre-existing
-  bullet must survive unless the user explicitly approved its removal or
-  merge, and the post-edit count must match the expected total exactly
+  bullet must survive unless the user explicitly approved its removal or merge,
+  and the post-edit count must match the expected total exactly
 
 ### Formatting
 
-- **Prettier** formats the repository's Markdown files (`README.md`, `CV.md`,
-  `AGENTS.md`) with `--prose-wrap always`, producing an 80-column prose wrap
-  and realigned tables covering the whole repository rather than individual
-  files, for example `prettier --write --prose-wrap always .`
+- **Prettier** formats the repository's Markdown (`CV.md`, `AGENTS.md`) with
+  `--prose-wrap always`, producing an 80-column prose wrap and realigned
+  tables covering the whole repository, for example
+  `prettier --write --prose-wrap always .`
+- **`README.md` is excluded from Prettier formatting**: its GitHub alert
+  block requires `> [!IMPORTANT]` to stand alone on the opening line, which
+  Prettier's prose wrapping collapses, so the alert would stop rendering;
+  its prose is wrapped manually to the same 80-column style instead
+- **Prettier output is accepted as the source of truth as run** — no
+  content-drift verification is required after formatting
 - `CLAUDE.md` is a symlink to `AGENTS.md` and needs no separate handling
 - `LICENSE` has no Prettier parser and is left untouched
-- Format-only changes are committed as `style:` commits (for example
-  `style: Format the repository files with Prettier`), with the diff verified
-  content-neutral via `git diff -w --stat` being empty before commit, so
-  nothing drifts under prose wrapping
+- Format-only changes are committed as `style:` commits
+  (for example `style: Format the repository files with Prettier`)
 
 ### Git Guardrails
 
@@ -66,9 +70,9 @@ whether run directly or through a wrapper such as the `gc` helper. Prior
 approval does not carry forward, and authorisation for one operation never
 authorises another. Read-only inspection is always allowed.
 
-**Always allowed (read-only):** `git status`, `git diff`, `git log`, `git
-show`, `git branch --show-current`, `git ls-files`, `git stash list`, and
-`git fetch` / `git pull` (the user classifies both as effectively read-only).
+**Always allowed (read-only):** `git status`, `git diff`, `git log`, `git show`,
+`git branch --show-current`, `git ls-files`, `git stash list`, and `git fetch` /
+`git pull` (the user classifies both as effectively read-only).
 
 **Branch rule:** agents stay on the branch the session started on. Never
 `git switch`, `git checkout <branch>`, or create branches (`git branch`,
@@ -139,13 +143,13 @@ asked to create a PR. Only create an actual pull request when explicitly told to
 do so.
 
 **Commit messages:** Commit with the user's `gc` helper per the Git Guardrails
-section — `source ~/.bash_aliases && gc -m "<subject>" [-m "<description>"]`.
-It stages everything and appends the user's `Signed-off-by` trailer
-automatically; it suits the final commit of a batch, and for split commits,
-stage and commit earlier pieces manually with `git commit --signoff` (identical
-trailer). Conventional-commit subjects (`feat:`, `fix:`, `chore:`, `ci:`, etc.),
-British English, no emoji prefixes for human-authored commits — they only appear
-on automated Dependabot commits where such automation exists.
+section — `source ~/.bash_aliases && gc -m "<subject>" [-m "<description>"]`. It
+stages everything and appends the user's `Signed-off-by` trailer automatically;
+it suits the final commit of a batch, and for split commits, stage and commit
+earlier pieces manually with `git commit --signoff` (identical trailer).
+Conventional-commit subjects (`feat:`, `fix:`, `chore:`, `ci:`, etc.), British
+English, no emoji prefixes for human-authored commits — they only appear on
+automated Dependabot commits where such automation exists.
 
 **No co-authored commits:** Agents MUST NOT add `Co-authored-by` trailers or any
 other attribution that signs off a commit on the agent's behalf. Only humans can
@@ -155,10 +159,10 @@ themselves. Following the rules the Linux kernel team enforce for AI coding
 assistants, an agent's role in a commit ends at the message body — no
 `Signed-off-by` appended by the agent, no `Co-authored-by`, no other trailers or
 sign-offs authored on the agent's behalf. The user's own sign-off appended
-automatically by the `gc` helper differs; it certifies the user's content on
-the user's explicit instruction and is unaffected by this rule. This
-distinction was integrated into this ruleset on 2026-10-12. See [AI Coding
-Assistants — The Linux Kernel documentation]
+automatically by the `gc` helper differs; it certifies the user's content on the
+user's explicit instruction and is unaffected by this rule. This distinction was
+integrated into this ruleset on 2026-10-12. See [AI Coding Assistants — The
+Linux Kernel documentation]
 (https://docs.kernel.org/process/coding-assistants.html), integrated into this
 ruleset on 2026-09-14.
 
