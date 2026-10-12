@@ -4,30 +4,30 @@ The latest formatted versions of my CV are available for download from my websit
 
 ## Employment
 
-| Title                                         | Company                                         | Employment Type | Location               | Start Date     | End Date       |
-| --------------------------------------------- | ----------------------------------------------- | --------------- | ---------------------- | -------------- | -------------- |
-| Staff Software Engineer                       | Donnerstag.ai GmbH                              | Full-time (Remote) | Munich, Germany     | February 2026  | April 2026     |
-| Engineering Manager & Platform Owner (VPD)    | Deutsche Fintech Solutions GmbH                 | Full-time (Remote) | Munich, Germany     | November 2023  | January 2026   |
-| Engineering Manager                           | Cognigy GmbH                                    | Full-time (Remote) | Munich, Germany     | June 2023      | August 2023    |
-| Author (Rust for Web Developers)              | Manning Publications Co.                        | Contract        | Munich, Germany        | June 2023      | September 2023 |
-| Co-Founder & CTO                              | Workops Ltd                                     | Self-employed (Remote) | London, United Kingdom | March 2023 | March 2024     |
-| Senior Software Engineer & Guest Lecturer     | IU International University of Applied Sciences | Full-time (Remote) | Munich, Germany     | January 2023   | May 2023       |
-| Technical Engagement Manager / Senior Software Engineer / Consultant | Foobar Agency GmbH | Full-time (Hybrid) | Munich, Germany     | January 2021   | January 2023   |
-| Head of Technology                            | MyBacs GmbH                                     | Full-time (Remote) | Munich, Germany     | September 2020 | October 2020   |
-| Technical Co-Founder                          | Stealth Startup (HealthTech)                    | Self-employed (Remote) | Munich, Germany  | February 2020  | August 2020    |
-| Owner & Web Developer                         | James Robb Web Development                      | Self-employed (Remote) | Glasgow & London, United Kingdom | November 2013 | February 2021 |
-| Senior Software Engineer / Global Accessibility Lead / Consultant | Futurice GmbH              | Full-time (Hybrid) | Munich, Germany     | September 2018 | September 2020 |
-| Software Engineer                             | Talentry GmbH                                   | Full-time (On-site) | Munich, Germany    | May 2018       | September 2018 |
-| Front End Developer                           | Vitafy GmbH                                     | Full-time (On-site) | Munich, Germany    | October 2016   | May 2018       |
-| Technical Support Analyst                     | E-Max Systems                                   | Full-time (On-site) | Glasgow, United Kingdom | April 2013 | August 2013  |
-| Owner & Web Administrator                     | Line Leopard Ltd                                | Self-employed (Remote) | Glasgow, United Kingdom | June 2012 | February 2013 |
-| Administrative Assistant                      | Glasgow City Council                            | Internship      | Glasgow, Scotland      | January 2012   | March 2012     |
-| General Assistant                             | Whitbread                                       | Full-time       | Fort William, Scotland | October 2011   | December 2011  |
-| Entertainment Manager                         | Lochs & Glens Holidays                          | Full-time       | Fort William, Scotland | June 2011      | September 2011 |
-| Waiter                                        | Lochs & Glens Holidays                          | Full-time       | Fort William, Scotland | February 2011  | September 2011 |
-| General Assistant                             | Morrisons                                       | Part-time       | Fort William, Scotland | January 2010   | April 2010     |
+| Title                                         | Company                                         | Type                   | Mode    | Location               | Start Date     | End Date       |
+| --------------------------------------------- | ----------------------------------------------- | ---------------------- | ------- | ---------------------- | -------------- | -------------- |
+| Staff Software Engineer                       | Donnerstag.ai GmbH                              | Full-time              | Remote  | Munich, Germany        | February 2026  | April 2026     |
+| Engineering Manager & Platform Owner (VPD)    | Deutsche Fintech Solutions GmbH                 | Full-time              | Remote  | Munich, Germany        | November 2023  | January 2026   |
+| Engineering Manager                           | Cognigy GmbH                                    | Full-time              | Remote  | Munich, Germany        | June 2023      | August 2023    |
+| Author (Rust for Web Developers)              | Manning Publications Co.                        | Contract               | Remote  | Munich, Germany        | June 2023      | September 2023 |
+| Co-Founder & CTO                              | Workops Ltd                                     | Self-employed          | Remote  | London, United Kingdom | March 2023     | March 2024     |
+| Senior Software Engineer & Guest Lecturer     | IU International University of Applied Sciences | Full-time              | Remote  | Munich, Germany        | January 2023   | May 2023       |
+| Technical Engagement Manager / Senior Software Engineer / Consultant | Foobar Agency GmbH | Full-time | Hybrid | Munich, Germany        | January 2021   | January 2023   |
+| Head of Technology                            | MyBacs GmbH                                     | Full-time              | Remote  | Munich, Germany        | September 2020 | October 2020   |
+| Technical Co-Founder                          | Stealth Startup (HealthTech)                    | Self-employed          | Remote  | Munich, Germany        | February 2020  | August 2020    |
+| Owner & Web Developer                         | James Robb Web Development                      | Self-employed          | Remote  | Glasgow & London, United Kingdom | November 2013 | February 2021 |
+| Senior Software Engineer / Global Accessibility Lead / Consultant | Futurice GmbH              | Full-time              | Hybrid  | Munich, Germany        | September 2018 | September 2020 |
+| Software Engineer                             | Talentry GmbH                                   | Full-time              | On-site | Munich, Germany        | May 2018       | September 2018 |
+| Front End Developer                           | Vitafy GmbH                                     | Full-time              | On-site | Munich, Germany        | October 2016   | May 2018       |
+| Technical Support Analyst                     | E-Max Systems                                   | Full-time              | On-site | Glasgow, United Kingdom | April 2013    | August 2013    |
+| Owner & Web Administrator                     | Line Leopard Ltd                                | Self-employed          | Remote  | Glasgow, United Kingdom | June 2012     | February 2013  |
+| Administrative Assistant                      | Glasgow City Council                            | Internship             | On-site | Glasgow, Scotland      | January 2012   | March 2012     |
+| General Assistant                             | Whitbread                                       | Full-time              | On-site | Fort William, Scotland | October 2011   | December 2011  |
+| Entertainment Manager                         | Lochs & Glens Holidays                          | Full-time              | On-site | Fort William, Scotland | June 2011      | September 2011 |
+| Waiter                                        | Lochs & Glens Holidays                          | Full-time              | On-site | Fort William, Scotland | February 2011  | September 2011 |
+| General Assistant                             | Morrisons                                       | Part-time              | On-site | Fort William, Scotland | January 2010   | April 2010     |
 
-During my time at Foobar Agency, I led and contributed to client engagements for Cyberport (Technical Engagement Manager, November 2021 to January 2023), STIHL (Senior Software Engineer, January 2021 to January 2023), Porta (Senior Software Engineer, January 2021 to January 2023), and Segmüller (Lead Solutions Architect, March 2021 to April 2021).
+Alongside my employed roles, consulting and freelance work has run through my whole career: engagements delivered through Foobar Agency and Futurice, plus independent clients through my own businesses, Line Leopard Ltd and James Robb Web Development. Notable client organisations include Cyberport, STIHL, Porta, Segmüller, SAS, Stadtwerke München, BMW Labs, Bosch PRO360, and NIO.
 
 ## Testimonials
 
@@ -89,12 +89,12 @@ During my time at Foobar Agency, I led and contributed to client engagements for
 
 ## Qualifications
 
-| Qualification Name                          | Qualification Level  | Institution                             | Location               | Start Year | End Year |
-| ------------------------------------------- | -------------------- | --------------------------------------- | ---------------------- | ---------- | -------- |
-| Science, Technology and Maths Access Module | N / A                | The Open University                     | Remote                 | 2021       | 2021     |
-| Interactive Media: Web Development          | HNC (SCQF 7)         | City of Glasgow College                 | Glasgow, Scotland      | 2014       | 2015     |
-| Web Design and Web Authoring                | Other                | City of Glasgow College                 | Glasgow, Scotland      | 2013       | 2014     |
-| Business Management and Administration      | SVQ Level 2 (SCQF 5) | University of the Highlands and Islands | Fort William, Scotland | 2010       | 2011     |
+| Qualification Name                          | Qualification Level  | Type       | Mode    | Institution                             | Location               | Start Year | End Year |
+| ------------------------------------------- | -------------------- | ---------- | ------- | --------------------------------------- | ---------------------- | ---------- | -------- |
+| Science, Technology and Maths Access Module | N / A                | Part-time  | Remote  | The Open University                     | Munich, Germany        | 2021       | 2021     |
+| Interactive Media: Web Development          | HNC (SCQF 7)         | Full-time  | Hybrid  | City of Glasgow College                 | Glasgow, Scotland      | 2014       | 2015     |
+| Web Design and Web Authoring                | Other                | Full-time  | Hybrid  | City of Glasgow College                 | Glasgow, Scotland      | 2013       | 2014     |
+| Business Management and Administration      | SVQ Level 2 (SCQF 5) | Full-time  | On-site | University of the Highlands and Islands | Fort William, Scotland | 2010       | 2011     |
 
 ## Certifications
 
