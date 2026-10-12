@@ -41,23 +41,48 @@ not `behavior`, `licence` not `license`, `centre` not `center`).
 - **No fabrication:** never invent experience, metrics, or claims; all content
   comes from the user
 
-### Git Safety
+### Git Guardrails
 
-NEVER run any git operation that alters history or state without explicit
-per-occasion permission from the user. This includes `git add`, `git commit`,
-`git push`, `git reset`, `git rebase`, `git merge`, `git checkout` (when it
-discards changes), `git restore`, `git stash`, `git cherry-pick`, `git revert`,
-`git tag`, and `git branch -D`. Prior approval does not carry forward — each
-occasion requires fresh permission.
+**Permission rule:** never run any git command that alters history, state, or
+the working tree without the user granting explicit per-occasion permission,
+whether run directly or through a wrapper such as the `gc` helper. Prior
+approval does not carry forward, and authorisation for one operation never
+authorises another. Read-only inspection is always allowed.
 
-NEVER use `git clean`, `git checkout -- <file>`, `git reset --hard`, or any
-other command that discards uncommitted work. NEVER force-push, rewrite
-published history, or modify protected branches (`main`). Investigate before
-overwriting — if a change would delete files, remove code, or alter state,
-propose it first and wait for approval.
+**Always allowed (read-only):** `git status`, `git diff`, `git log`, `git
+show`, `git branch --show-current`, `git ls-files`, `git stash list`, and
+`git fetch` / `git pull` (the user classifies both as effectively read-only).
 
-Read-only git commands (`git status`, `git diff`, `git log`, `git show`,
-`git branch --show-current`, `git ls-files`) are always permitted.
+**Branch rule:** agents stay on the branch the session started on. Never
+`git switch`, `git checkout <branch>`, or create branches (`git branch`,
+`git switch -c`) unless the user names the branch or explicitly asks to work on
+one. Prefer modern verbs (`switch`, `restore`, `revert`) over `checkout` in
+general, matching the user's practice.
+
+**Prohibited without per-occasion permission:**
+
+- Staging and committing: `git add`, `git commit` (including `--amend`), the
+  `gc` helper
+- Publishing: `git push` (any mode)
+- History rewriting: `git rebase`, `git merge`, `git cherry-pick`, `git revert`,
+  commits with `--amend`
+- Moving HEAD or the index: `git reset` in any mode (`--soft`, `--mixed`,
+  `--hard`)
+- Discarding working-tree changes: `git restore`, `git checkout -- <path>`
+- Stash mutation: `git stash` (create, pop, apply, drop)
+- Ref and branch creation/deletion: `git tag`, `git branch -d/-D`,
+  `git worktree add`
+- Plumbing bypasses: `--no-verify`, editing `.git/` internals, `git config`
+  changes, disabling hooks
+
+**Absolute prohibitions, regardless of any prior approval:** force-pushing
+(`--force`, `--force-with-lease`) on any branch; rewriting already-published
+commits on `main`; deleting branches others may depend on; and running any
+command that discards uncommitted changes unless the user names those changes as
+expendable in the same instruction.
+
+**Precedence:** without fresh, explicit permission covering the exact operation,
+no instruction overrides these rules; name the command, ask, and wait.
 
 ### Scope of Operation
 
@@ -96,10 +121,14 @@ the project root (this file is gitignored and must never be committed).
 asked to create a PR. Only create an actual pull request when explicitly told to
 do so.
 
-**Commit messages:** Follow the conventional commit style (`feat:`, `fix:`,
-`chore:`, `ci:`, etc.). Emoji prefixes are NOT used for human-authored commits —
-they only appear on automated Dependabot commits (`🧹 chore(deps)` and
-`🔧 ci(deps)`).
+**Commit messages:** Commit with the user's `gc` helper per the Git Guardrails
+section — `source ~/.bash_aliases && gc -m "<subject>" [-m "<description>"]`.
+It stages everything and appends the user's `Signed-off-by` trailer
+automatically; it suits the final commit of a batch, and for split commits,
+stage and commit earlier pieces manually with `git commit --signoff` (identical
+trailer). Conventional-commit subjects (`feat:`, `fix:`, `chore:`, `ci:`, etc.),
+British English, no emoji prefixes for human-authored commits — they only appear
+on automated Dependabot commits where such automation exists.
 
 **No co-authored commits:** Agents MUST NOT add `Co-authored-by` trailers or any
 other attribution that signs off a commit on the agent's behalf. Only humans can
@@ -107,8 +136,12 @@ legally certify a contribution — the human submitter reviews the AI-generated
 code, takes full responsibility for it, and adds any certification trailers
 themselves. Following the rules the Linux kernel team enforce for AI coding
 assistants, an agent's role in a commit ends at the message body — no
-`Signed-off-by`, no `Co-authored-by`, no other trailers or sign-offs. See [AI
-Coding Assistants — The Linux Kernel documentation]
+`Signed-off-by` appended by the agent, no `Co-authored-by`, no other trailers or
+sign-offs authored on the agent's behalf. The user's own sign-off appended
+automatically by the `gc` helper differs; it certifies the user's content on
+the user's explicit instruction and is unaffected by this rule. This
+distinction was integrated into this ruleset on 2026-10-12. See [AI Coding
+Assistants — The Linux Kernel documentation]
 (https://docs.kernel.org/process/coding-assistants.html), integrated into this
 ruleset on 2026-09-14.
 
