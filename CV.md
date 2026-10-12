@@ -1,35 +1,35 @@
 # James Robb - CV
 
+The latest formatted versions of my CV are available for download from my website: [English (PDF)](https://jamesrobb.dev/assets/cvs/employment/employment-en-no-photo.pdf) and [German (PDF)](https://jamesrobb.dev/assets/cvs/employment/employment-de-no-photo.pdf). The simplified markdown version below reflects the same source of truth.
+
 ## Employment
 
 | Title                                         | Company                                         | Employment Type | Location               | Start Date     | End Date       |
 | --------------------------------------------- | ----------------------------------------------- | --------------- | ---------------------- | -------------- | -------------- |
-| Independent Software Engineering Consultant   | -                                               | Self Employed   | Munich, Germany        | November 2025  | Present        |
-| Engineering Manager                           | Deutsche Fintech Solutions GmbH                 | Full Time       | Munich, Germany        | November 2023  | January 2026   |
-| Requirements Engineer                         | Deutsche Fintech Solutions GmbH                 | Full Time       | Munich, Germany        | April 2024     | March 2025     |
-| Founding Director                             | WorkOps                                         | Self Employed   | London, United Kingdom | March 2023     | March 2024     |
-| Author (Rust for Web Application Development) | Manning Publications Co.                        | Full Time       | Munich, Germany        | June 2023      | September 2023 |
-| Engineering Manager (Live Agent Team)         | Cognigy Gmbh                                    | Full Time       | Munich, Germany        | July 2023      | August 2023    |
-| Engineering Manager (Insights Team)           | Cognigy Gmbh                                    | Full Time       | Munich, Germany        | June 2023      | August 2023    |
-| Senior Software Engineer                      | IU International University of Applied Sciences | Full Time       | Munich, Germany        | January 2023   | May 2023       |
-| Senior Software Engineer                      | Foobar Agency GmbH (STIHL)                      | Full Time       | Munich, Germany        | August 2022    | January 2023   |
-| Technical Engagement Manager                  | Foobar Agency GmbH (Cyberport)                  | Full Time       | Munich, Germany        | November 2021  | January 2023   |
-| Senior Software Engineer                      | Foobar Agency GmbH (Porta Möbel)                | Full Time       | Munich, Germany        | January 2021   | February 2022  |
-| Lead Solutions Architect                      | Foobar Agency GmbH (Segmüller)                  | Full Time       | Munich, Germany        | March 2021     | April 2021     |
-| Owner & Web Developer                         | James Robb Web Development                      | Self Employed   | Remote                 | November 2013  | February 2021  |
-| Head of Technology                            | MyBacs GmbH                                     | Full Time       | Munich, Germany        | September 2020 | October 2020   |
-| Global Accessibility Lead                     | Futurice GmbH                                   | Full Time       | Munich, Germany        | February 2019  | September 2020 |
-| Senior Software Engineer                      | Futurice GmbH                                   | Full Time       | Munich, Germany        | September 2018 | September 2020 |
-| Technical Co-Founder                          | Stealth Startup                                 | Full Time       | Munich, Germany        | February 2020  | August 2020    |
-| Software Engineer                             | Talentry GmbH                                   | Full Time       | Munich, Germany        | May 2018       | September 2018 |
-| Frontend Developer                            | Vitafy GmbH                                     | Full Time       | Munich, Germany        | October 2016   | May 2018       |
-| Technical Support Analyst                     | E-Max Systems                                   | Full Time       | Glasgow, Scotland      | April 2013     | August 2013    |
-| Owner & Web Administrator                     | Line Leopard                                    | Self Employed   | Glasgow, Scotland      | June 2012      | February 2013  |
+| Staff Software Engineer                       | Donnerstag.ai GmbH                              | Full-time (Remote) | Munich, Germany     | February 2026  | April 2026     |
+| Engineering Manager & Platform Owner (VPD)    | Deutsche Fintech Solutions GmbH                 | Full-time (Remote) | Munich, Germany     | November 2023  | January 2026   |
+| Engineering Manager                           | Cognigy GmbH                                    | Full-time (Remote) | Munich, Germany     | June 2023      | August 2023    |
+| Author (Rust for Web Developers)              | Manning Publications Co.                        | Contract        | Munich, Germany        | June 2023      | September 2023 |
+| Co-Founder & CTO                              | Workops Ltd                                     | Self-employed (Remote) | London, United Kingdom | March 2023 | March 2024     |
+| Senior Software Engineer & Guest Lecturer     | IU International University of Applied Sciences | Full-time (Remote) | Munich, Germany     | January 2023   | May 2023       |
+| Technical Engagement Manager / Senior Software Engineer / Consultant | Foobar Agency GmbH | Full-time (Hybrid) | Munich, Germany     | January 2021   | January 2023   |
+| Head of Technology                            | MyBacs GmbH                                     | Full-time (Remote) | Munich, Germany     | September 2020 | October 2020   |
+| Technical Co-Founder                          | Stealth Startup (HealthTech)                    | Self-employed (Remote) | Munich, Germany  | February 2020  | August 2020    |
+| Owner & Web Developer                         | James Robb Web Development                      | Self-employed (Remote) | Glasgow & London, United Kingdom | November 2013 | February 2021 |
+| Senior Software Engineer / Global Accessibility Lead / Consultant | Futurice GmbH              | Full-time (Hybrid) | Munich, Germany     | September 2018 | September 2020 |
+| Software Engineer                             | Talentry GmbH                                   | Full-time (On-site) | Munich, Germany    | May 2018       | September 2018 |
+| Front End Developer                           | Vitafy GmbH                                     | Full-time (On-site) | Munich, Germany    | October 2016   | May 2018       |
+| Technical Support Analyst                     | E-Max Systems                                   | Full-time (On-site) | Glasgow, United Kingdom | April 2013 | August 2013  |
+| Owner & Web Administrator                     | Line Leopard Ltd                                | Self-employed (Remote) | Glasgow, United Kingdom | June 2012 | February 2013 |
 | Administrative Assistant                      | Glasgow City Council                            | Internship      | Glasgow, Scotland      | January 2012   | March 2012     |
-| General Assistant                             | Whitbread                                       | Full Time       | Fort William, Scotland | October 2011   | December 2011  |
-| Entertainment Manager                         | Lochs & Glens Holidays                          | Full Time       | Fort William, Scotland | June 2011      | September 2011 |
-| Waiter                                        | Lochs & Glens Holidays                          | Full Time       | Fort William, Scotland | February 2011  | September 2011 |
-| General Assistant                             | Morrisons                                       | Part Time       | Fort William, Scotland | January 2010   | April 2010     |
+| General Assistant                             | Whitbread                                       | Full-time       | Fort William, Scotland | October 2011   | December 2011  |
+| Entertainment Manager                         | Lochs & Glens Holidays                          | Full-time       | Fort William, Scotland | June 2011      | September 2011 |
+| Waiter                                        | Lochs & Glens Holidays                          | Full-time       | Fort William, Scotland | February 2011  | September 2011 |
+| General Assistant                             | Morrisons                                       | Part-time       | Fort William, Scotland | January 2010   | April 2010     |
+
+During my time at Foobar Agency, I led and contributed to client engagements for Cyberport (Technical Engagement Manager, November 2021 to January 2023), STIHL (Senior Software Engineer, January 2021 to January 2023), Porta (Senior Software Engineer, January 2021 to January 2023), and Segmüller (Lead Solutions Architect, March 2021 to April 2021).
+
+## Testimonials
 
 <details>
   <summary>Testimonials</summary>
@@ -71,6 +71,8 @@
 
 | Title                     | Organisation                | Cause                          | Start Date    | End Date       |
 | ------------------------- | --------------------------- | ------------------------------ | ------------- | -------------- |
+| Founding Project Mentor   | Bristol Data Science & AI Society | Education                | September 2026 | April 2027    |
+| Core Contributor          | P5-wrapper (GitHub)         | Science and Technology         | April 2020    | Present        |
 | Open Source Contributor   | GitHub                      | Science and Technology         | January 2015  | Present        |
 | Blogger                   | Dev Community               | Science and Technology         | January 2017  | Present        |
 | Trusted Member            | Dev Community               | Science and Technology         | February 2023 | Present        |
@@ -98,6 +100,7 @@
 
 | Cetification Name                         | Provider                    | Issue Date     | Expiry Date  | Link to Certification                                                                                                                                   |
 | ----------------------------------------- | --------------------------- | -------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| telc Deutsch B1                           | telc gGmbH                  | 2025           | N / A        | [telc Deutsch B1 Certificate](https://results.telc.net/qr/ER7IF0UWSta7J5mHiOxb6whk1CnW-614ldSkso2N-4pZRKjaYPu9H_NX2r)                                   |
 | Cyber Security                            | Hiscox                      | July 2023      | N / A        | N / A                                                                                                                                                   |
 | Certified Web Designer                    | W3Schools                   | April 2023     | N / A        | [Web Designer Certificate](https://verify.w3schools.com/1NMYLDSUSB)                                                                                     |
 | AGG für Mitarbeiter                       | Haufe Akademie              | January 2023   | N / A        | N / A                                                                                                                                                   |
@@ -119,22 +122,22 @@
 
 ## Honors and Awards
 
-| Title                 | Issuer                       | Issue Date |
-| --------------------- | ---------------------------- | ---------- |
-| 1st Place Team Member | E.ON Digital Technology GmbH | April 2019 |
+| Title                                 | Issuer | Issue Date |
+| ------------------------------------- | ------ | ---------- |
+| 1st Place, E.ON Future Home Hackathon | E.ON   | April 2019 |
 
 ## Spoken Languages
 
-| Language | Level   | Native Speaker |
-| -------- | ------- | -------------- |
-| English  | Native  | Yes            |
-| Scots    | Native  | Yes            |
-| German   | CEFR B2 | No             |
-| Gàidhlig | CEFR A2 | No             |
-| French   | CEFR A2 | No             |
-| Korean   | CEFR A1 | No             |
-| Spanish  | CEFR A1 | No             |
-| Swedish  | CEFR A1 | No             |
+| Language | Level    | Native Speaker |
+| -------- | -------- | -------------- |
+| English  | Native   | Yes            |
+| Scots    | Native   | Yes            |
+| German   | CEFR B2/C1 | No           |
+| Gàidhlig | CEFR A2  | No             |
+| French   | CEFR A2  | No             |
+| Korean   | CEFR A2  | No             |
+| Spanish  | CEFR A1  | No             |
+| Swedish  | CEFR A1  | No             |
 
 ## Interests
 
