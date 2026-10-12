@@ -50,7 +50,7 @@ not `behavior`, `licence` not `license`, `centre` not `center`).
 - **Prettier** formats the repository's Markdown (`CV.md`, `AGENTS.md`) with
   `--prose-wrap always`, producing an 80-column prose wrap and realigned
   tables covering the whole repository, for example
-  `prettier --write --prose-wrap always .`
+  `prettier --write --prose-wrap always . '!README.md'`
 - **`README.md` is excluded from Prettier formatting**: its GitHub alert
   block requires `> [!IMPORTANT]` to stand alone on the opening line, which
   Prettier's prose wrapping collapses, so the alert would stop rendering;
