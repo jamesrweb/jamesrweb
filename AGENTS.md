@@ -40,6 +40,10 @@ not `behavior`, `licence` not `license`, `centre` not `center`).
   professionally — content changes require explicit user-provided facts
 - **No fabrication:** never invent experience, metrics, or claims; all content
   comes from the user
+- **Bullet completeness:** when editing any bullet list in `README.md` or
+  `CV.md`, count the entries before and after the edit. Every pre-existing
+  bullet must survive unless the user explicitly approved its removal or
+  merge, and the post-edit count must match the expected total exactly
 
 ### Git Guardrails
 
