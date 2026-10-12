@@ -6,9 +6,15 @@
 
 I'm a senior engineering manager and staff level software engineer with 15 years of commercial experience, currently working as a software and AI engineering consultant from Munich.
 
-I build full-stack web applications, distributed platform architectures, and high-performing engineering teams, with work spanning fintech, e-commerce, automotive, aviation, energy, IoT, telecommunications, manufacturing, and healthtech at organisations including DVAG, Cyberport, STIHL, Scandinavian Airlines, BMW, Bosch, and Telia.
+I build full-stack web, mobile, and cloud applications and design distributed platform architectures, writing code across paradigms with an affinity for FP practices.
 
-I'm a hands-on, quality-first software engineer, writing code across paradigms but with an affinity for FP practices, and holding XP, TDD, and servant leadership principles at the core. I help teams adopt AI/ML in their daily practice, from custom model training to LLM-powered products and agentic workflows. I'm equally at home in UK and German work cultures (English native, German B2/C1).
+I create high-performing engineering teams through co-creation and servant leadership principles, championing accessibility along the way, and working cross-org and cross-team to bridge gaps and tie my domain together. Process comes before hierarchy, keeping structures decentralised and standards shared.
+
+My engineering fundamentals come first, identifying and resolving issues through observation, discussion, collaboration, and continuous refinement of how we work, leading from the front in both management and hands-on scenarios. I also help teams adopt AI/ML in their daily work responsibly and with a focus on ethical usage, from custom model training to LLM-powered products and agentic workflows. I'm a native English speaker comfortable working in German at B2/C1 level, at home in both UK and German work cultures.
+
+I work remote-first from Munich, collaborating across time zones within a +/- 6 hour window of CET. I do my best work in high trust environments where direction is set together and standards are shared rather than imposed.
+
+My work spans fintech, e-commerce, automotive, aviation, energy, IoT, telecommunications, manufacturing, and healthtech, and companies I have worked with in the past include the DVAG, Cyberport, STIHL, Scandinavian Airlines, BMW, Bosch, and Telia.
 
 - 🌱 I'm currently learning **Rust, Haskell, F# & Gleam**
 - 🔭 I'm currently working on building [Altitude Travel](https://github.com/altitude-travel)
