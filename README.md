@@ -16,10 +16,11 @@ I work remote-first from Munich, collaborating across time zones within a +/- 6 
 
 My work spans fintech, e-commerce, automotive, aviation, energy, IoT, telecommunications, manufacturing, and healthtech, and companies I have worked with in the past include the DVAG, Cyberport, STIHL, Scandinavian Airlines, BMW, Bosch, and Telia.
 
+## What I'm up to
+
 - 🌱 I'm currently learning **Rust, Haskell, F# & Gleam**
 - 🔭 I'm currently working on building [Altitude Travel](https://github.com/altitude-travel)
-- 🏆 I'm currently contributing my open source efforts to the [P5-wrapper](https://github.com/p5-wrapper) organisation projects
-- 👯 I'm looking to collaborate on [P5-wrapper/angular](https://github.com/p5-wrapper/angular)
-- ⏳ I'm going to eventually get around to continuing work on [jamesrweb/elm-lisp-interpreter](https://github.com/jamesrweb/elm-lisp-interpreter)
-- 📝 I sometimes write articles on [DEV](https://dev.to/jamesrweb), these are also listed on [my blog](https://jamesrobb.blog)
+- 🏆 My current open source focus is the [P5-wrapper](https://github.com/p5-wrapper) organisation
+- ⏳ I'm going to eventually get around to continuing work on [elm-lisp-interpreter](https://github.com/jamesrweb/elm-lisp-interpreter)
+- 📝 I sometimes write articles, which are also listed on [my blog](https://jamesrobb.blog)
 - 📄 Learn more about me by reading my [CV](https://github.com/jamesrweb/jamesrweb/blob/main/CV.md) or checking my profile on [LinkedIn](https://www.linkedin.com/in/jamesrobbweb/)
