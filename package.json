@@ -1,12 +1,27 @@
 {
   "name": "jamesrweb",
-  "private": true,
   "version": "1.0.0",
-  "description": "GitHub profile repository for James Robb",
+  "private": true,
+  "description": "GitHub profile repository",
   "packageManager": "pnpm@12.17.0",
   "engines": {
     "node": ">=26.0.0"
   },
+  "author": {
+    "name": "James Robb",
+    "url": "https://github.com/jamesrweb",
+    "email": "47126579+jamesrweb@users.noreply.github.com"
+  },
+  "license": "PROPRIETARY",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesrweb/jamesrweb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jamesrweb/jamesrweb/issues"
+  },
+  "homepage": "https://github.com/jamesrweb/jamesrweb#readme",
   "scripts": {
     "format": "biome check --write .",
     "lint": "biome check ."
