@@ -215,9 +215,10 @@ on the github.com/jamesrweb profile page.
 
 ## CI/CD
 
-- **CI** (`continuous-integration.yml`): Runs on PRs to `main` and
-  `workflow_dispatch`. Job: `lint` (Biome check via `pnpm run lint` after
-  `pnpm install --frozen-lockfile`). Concurrency cancels in-progress runs
+- **CI** (`continuous-integration.yml`): Runs on pushes to `main`, all pull
+  requests, and `workflow_dispatch`. Job: `lint` (Biome check via
+  `pnpm run lint` after `pnpm install --frozen-lockfile`). Concurrency cancels
+  in-progress runs
 
 ## Guardrails
 
