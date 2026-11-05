@@ -1,0 +1,9 @@
+engineStrict: true
+autoInstallPeers: true
+dedupePeerDependents: true
+strictPeerDependencies: true
+minimumReleaseAgeStrict: true
+minimumReleaseAge: 1440
+
+allowBuilds:
+  "@biomejs/biome": true

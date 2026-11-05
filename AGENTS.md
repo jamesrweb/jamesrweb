@@ -45,22 +45,35 @@ not `behavior`, `licence` not `license`, `centre` not `center`).
   bullet must survive unless the user explicitly approved its removal or merge,
   and the post-edit count must match the expected total exactly
 
-### Formatting
+### Package Management
 
-- **Prettier** formats the repository's Markdown (`CV.md`, `AGENTS.md`) with
-  `--prose-wrap always`, producing an 80-column prose wrap and realigned
-  tables covering the whole repository, for example
-  `prettier --write --prose-wrap always . '!README.md'`
-- **`README.md` is excluded from Prettier formatting**: its GitHub alert
-  block requires `> [!IMPORTANT]` to stand alone on the opening line, which
-  Prettier's prose wrapping collapses, so the alert would stop rendering;
-  its prose is wrapped manually to the same 80-column style instead
-- **Prettier output is accepted as the source of truth as run** — no
-  content-drift verification is required after formatting
-- `CLAUDE.md` is a symlink to `AGENTS.md` and needs no separate handling
-- `LICENSE` has no Prettier parser and is left untouched
+- **Package manager:** pnpm (`pnpm@12.17.0` via the `packageManager` field —
+  Corepack manages the exact version, never install pnpm globally)
+- **Node.js engine:** `>=26.0.0` (declared in `package.json` `engines`)
+- **Lock file:** `pnpm-lock.yaml` is committed. NEVER delete or regenerate it
+  casually — run `pnpm install` after dependency changes and commit the result
+- **Install:** `pnpm install --frozen-lockfile` in CI and automation; plain
+  `pnpm install` locally
+
+### Formatting and Linting
+
+- **Biome** (`@biomejs/biome@^2.6.4`) formats and lints the repository's
+  Markdown and config files with `proseWrap: "always"` in `biome.json`,
+  producing an 80-column prose wrap and realigned tables — `pnpm format` applies
+  fixes, `pnpm lint` checks
+- **`README.md` is excluded from Biome formatting** via an `overrides` entry in
+  `biome.json`: its GitHub alert block requires `> [!IMPORTANT]` to stand alone
+  on the opening line, which Biome's Markdown formatter collapses (along with
+  its hand-written HTML), so the alert would stop rendering; its prose is
+  wrapped manually to the same 80-column style instead.
+  **When the alert block
+  is removed from `README.md`, remove the `README.md` override from
+  `biome.json` too**
+  so the file is formatted like everything else
+- **Biome output is accepted as the source of truth as run** — no content-drift
+  verification is required after formatting
+- `LICENSE` has no Biome parser and is left untouched
 - Format-only changes are committed as `style:` commits
-  (for example `style: Format the repository files with Prettier`)
 
 ### Git Guardrails
 
@@ -161,7 +174,8 @@ assistants, an agent's role in a commit ends at the message body — no
 sign-offs authored on the agent's behalf. The user's own sign-off appended
 automatically by the `gc` helper differs; it certifies the user's content on the
 user's explicit instruction and is unaffected by this rule. This distinction was
-integrated into this ruleset on 2026-10-12. See [AI Coding Assistants — The
+integrated into this ruleset on 2026-10-12. See
+[AI Coding Assistants — The
 Linux Kernel documentation]
 (https://docs.kernel.org/process/coding-assistants.html), integrated into this
 ruleset on 2026-09-14.
@@ -196,10 +210,14 @@ on the github.com/jamesrweb profile page.
 
 - `README.md` — the profile README
 - `CV.md` — the CV document
+- `biome.json`, `package.json`, `pnpm-workspace.yaml`, `pnpm-lock.yaml` — Biome
+  / pnpm tooling config
 
 ## CI/CD
 
-None. This is a content-only repository with no workflows.
+- **CI** (`continuous-integration.yml`): Runs on PRs to `main` and
+  `workflow_dispatch`. Job: `lint` (Biome check via `pnpm run lint` after
+  `pnpm install --frozen-lockfile`). Concurrency cancels in-progress runs
 
 ## Guardrails
 
