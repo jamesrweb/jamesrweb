@@ -19,7 +19,7 @@ README and CV are rendered on the github.com/jamesrweb profile page.
 ├── CV.md                  # the CV document
 ├── LICENSE                # proprietary content licence
 ├── README.md              # the profile README
-├── biome.json             # Biome configuration
+├── biome.json             # `Biome` configuration
 ├── package.json           # pnpm manifest and scripts
 ├── pnpm-lock.yaml         # pnpm lockfile
 ├── pnpm-workspace.yaml    # pnpm workspace settings
@@ -29,11 +29,10 @@ README and CV are rendered on the github.com/jamesrweb profile page.
 
 ## Commands
 
-| Command        | Purpose                  |
-| -------------- | ------------------------ |
-| `pnpm format`  | Applies formatting fixes |
-| `pnpm lint`    | Runs the lint checks     |
-| `pnpm install` | Installs dependencies    |
+| Command       | Purpose                  |
+| ------------- | ------------------------ |
+| `pnpm format` | Applies formatting fixes |
+| `pnpm lint`   | Runs the lint checks     |
 
 Every change must pass `pnpm lint` before it is complete.
 
@@ -45,7 +44,7 @@ them.
 
 ## Tooling
 
-Formatting and linting are done via Biome. `README.md` is excluded from
+Formatting and linting are done via `Biome`. `README.md` is excluded from
 formatting because its alert block must keep a fixed shape to render.
 
 ## Conventions

@@ -20,14 +20,14 @@ proprietary.
 - `README.md` - the profile README
 - `CV.md` - the CV document, linked from `README.md`
 - `biome.json`, `package.json`, `pnpm-workspace.yaml`, `pnpm-lock.yaml` - the
-  Biome and pnpm tooling configuration
+  `Biome` and pnpm tooling configuration
 
 ## Commands
 
 | Command        | Purpose              |
 | -------------- | -------------------- |
-| `pnpm format`  | Apply Biome fixes    |
-| `pnpm lint`    | Biome check          |
+| `pnpm format`  | Apply `Biome` fixes  |
+| `pnpm lint`    | `Biome` check        |
 | `pnpm install` | Install dependencies |
 
 ## CI/CD
@@ -39,7 +39,7 @@ no CD workflow.
 
 ## Formatting note
 
-`README.md` is excluded from Biome formatting via an override in `biome.json`.
+`README.md` is excluded from `Biome` formatting via an override in `biome.json`.
 Its GitHub alert block requires the marker to stand alone on its opening line,
 which a Markdown formatter collapses, so the alert would stop rendering. Remove
 the override from `biome.json` when the alert block is removed from `README.md`.
