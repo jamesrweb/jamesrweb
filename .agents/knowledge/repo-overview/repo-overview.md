@@ -24,11 +24,12 @@ proprietary.
 
 ## Commands
 
-| Command        | Purpose              |
-| -------------- | -------------------- |
-| `pnpm format`  | Apply `Biome` fixes  |
-| `pnpm lint`    | `Biome` check        |
-| `pnpm install` | Install dependencies |
+| Command       | Purpose             |
+| ------------- | ------------------- |
+| `pnpm format` | Apply `Biome` fixes |
+| `pnpm lint`   | `Biome` check       |
+
+Run `pnpm install` to install dependencies.
 
 ## CI/CD
 

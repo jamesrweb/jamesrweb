@@ -8,23 +8,22 @@ README and CV are rendered on the github.com/jamesrweb profile page.
 ## Layout
 
 ```
-./
+./                         # repository root
 ├── .agents/               # agent configuration (DotAgents protocol)
 ├── .git/                  # git internals
+├── .github/               # CI workflow
 ├── node_modules/          # installed dependencies, gitignored
-├── .github/
-│   └── workflows/         # CI workflow
+├── .gitattributes         # git attributes
+├── .gitignore             # git ignore rules
 ├── AGENTS.md              # this file
+├── biome.json             # Biome configuration
 ├── CLAUDE.md              # symlink to AGENTS.md
 ├── CV.md                  # the CV document
 ├── LICENSE                # proprietary content licence
-├── README.md              # the profile README
-├── biome.json             # `Biome` configuration
 ├── package.json           # pnpm manifest and scripts
 ├── pnpm-lock.yaml         # pnpm lockfile
 ├── pnpm-workspace.yaml    # pnpm workspace settings
-├── .gitattributes         # git attributes
-└── .gitignore             # git ignore rules
+└── README.md              # the profile README
 ```
 
 ## Commands
@@ -57,7 +56,8 @@ keep the total exact. Never break the CV link in `README.md`.
 ## CI/CD and releases
 
 CI runs on pushes to `main`, on all pull requests, and on manual dispatch. There
-is no CD and nothing is published.
+is no CD and nothing is published. No `Dependabot` configuration, so no
+dependency automation runs here.
 
 ## Guardrails
 

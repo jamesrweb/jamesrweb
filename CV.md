@@ -2,9 +2,9 @@
 
 The latest formatted versions of my CV are available for download from my
 website:
-[English (PDF)](https://jamesrobb.dev/assets/cvs/employment/employment-en-no-photo.pdf)
+[English (PDF)](https://jamesrobb.dev/assets/cvs/employment/no-photo/resume.pdf)
 and
-[German (PDF)](https://jamesrobb.dev/assets/cvs/employment/employment-de-no-photo.pdf).
+[German (PDF)](https://jamesrobb.dev/assets/cvs/employment/no-photo/lebenslauf.pdf).
 The simplified markdown version below reflects the same source of truth.
 
 ## Employment
